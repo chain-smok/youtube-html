@@ -1,0 +1,19 @@
+p{
+    color:red;
+    
+  }
+  h1:hover{
+     color:blue;
+  }
+.food{
+    color:green;
+}
+.person{
+    color:aquamarine;
+}
+.background-grey{
+    background-color:grey;
+}
+[type]:hover{
+    background-color:aquamarine;
+}
